@@ -122,6 +122,13 @@ React Source Code
 
 `http://pixora-mohit-jadon-2026.s3-website.ap-south-1.amazonaws.com/`
 
+
+## 📸 AWS S3 Deployment Screenshot
+
+![PIXORA deployed on AWS S3](pixora-s3-screenshot.png)
+
+
+
 ### 🐙 GitHub Pages Deployment
 
 [![GitHub Deployment](https://img.shields.io/badge/OPEN%20PIXORA-GITHUB%20PAGES-24292F?style=for-the-badge&logo=github&logoColor=white)](https://mohitsinghjadon07-png.github.io/PIXORA/)
