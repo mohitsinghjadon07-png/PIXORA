@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": "photo-01",
+    "title": "Silent Horizons",
+    "category": "Nature",
+    "location": "Dolomites, Italy",
+    "image": "photos/01-silent-horizons.jpg",
+    "size": "large"
+  },
+  {
+    "id": "photo-02",
+    "title": "Golden Hour",
+    "category": "Nature",
+    "location": "Countryside",
+    "image": "photos/02-golden-hour.jpg",
+    "size": "small"
+  },
+  {
+    "id": "photo-03",
+    "title": "Into the Wild",
+    "category": "Nature",
+    "location": "Wildlife Landscape",
+    "image": "photos/03-into-the-wild.jpg",
+    "size": "small"
+  },
+  {
+    "id": "photo-04",
+    "title": "Urban Poetry",
+    "category": "Street",
+    "location": "Tokyo, Japan",
+    "image": "photos/04-urban-poetry.jpg",
+    "size": "large"
+  },
+  {
+    "id": "photo-05",
+    "title": "The Quiet Coast",
+    "category": "Travel",
+    "location": "Amalfi Coast, Italy",
+    "image": "photos/05-quiet-coast.jpg",
+    "size": "small"
+  },
+  {
+    "id": "photo-06",
+    "title": "Desert Dreams",
+    "category": "Travel",
+    "location": "Sahara, Morocco",
+    "image": "photos/06-desert-dreams.jpg",
+    "size": "small"
+  },
+  {
+    "id": "photo-07",
+    "title": "Mountain Escape",
+    "category": "Nature",
+    "location": "Mountain Landscape",
+    "image": "photos/07-mountain-escape.jpg",
+    "size": "small"
+  },
+  {
+    "id": "photo-08",
+    "title": "City Lights",
+    "category": "Architecture",
+    "location": "City Skyline",
+    "image": "photos/08-city-lights.jpg",
+    "size": "small"
+  }
+]
